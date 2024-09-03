@@ -1,4 +1,3 @@
-# src/main.py
 from data_ingestion import load_data
 from data_preprocessing import clean_data
 from analysis_engine import run_analysis
