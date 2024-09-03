@@ -12,7 +12,7 @@ This project is a prototype for an AI employee that specializes in data analysis
 
 ## Project Structure
 - Demostrated above
-- 
+  
 ## Getting Started
 
 ### Prerequisites
