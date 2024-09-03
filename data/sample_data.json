@@ -1,0 +1,7 @@
+[
+    {"Date": "2024-01-01", "Product": "Product A", "Sales": 100, "Revenue": 1000, "Profit": 200},
+    {"Date": "2024-01-02", "Product": "Product B", "Sales": 150, "Revenue": 1500, "Profit": 300},
+    {"Date": "2024-01-03", "Product": "Product C", "Sales": 200, "Revenue": 2000, "Profit": 400},
+    {"Date": "2024-01-04", "Product": "Product D", "Sales": 250, "Revenue": 2500, "Profit": 500},
+    {"Date": "2024-01-05", "Product": "Product E", "Sales": 300, "Revenue": 3000, "Profit": 600}
+]
