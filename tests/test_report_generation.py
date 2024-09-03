@@ -1,4 +1,3 @@
-# tests/test_report_generation.py
 import unittest
 from src.report_generation import generate_report
 import pandas as pd
@@ -11,7 +10,7 @@ class TestReportGeneration(unittest.TestCase):
         })
         results = ([1, 2, 3, 4], [0, 1, 0, 1], [1, 1, 1, 1])
         generate_report(data, results)
-        self.assertTrue(True)  # Test to ensure the report generation runs without errors
+        self.assertTrue(True)  
 
 if __name__ == '__main__':
     unittest.main()
