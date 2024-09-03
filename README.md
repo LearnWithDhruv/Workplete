@@ -11,8 +11,8 @@ This project is a prototype for an AI employee that specializes in data analysis
 - **User Interaction:** Includes a command-line interface with basic natural language processing.
 
 ## Project Structure
-AI_Employee_Prototype/ ├── data/ # Directory for data files (input files) ├── src/ # Main source code directory │ ├── data_ingestion.py # Data ingestion module │ ├── data_preprocessing.py # Data preprocessing pipeline │ ├── analysis_engine.py # Analysis engine with ML algorithms │ ├── report_generation.py # Report generation module │ ├── nlp_interface.py # Command-line interface with NLP │ ├── utils/ # Utility functions │ └── main.py # Entry point for the application ├── tests/ # Unit tests for the project ├── docs/ # Documentation files ├── results/ # Generated reports and visualizations ├── presentation/ # Presentation materials ├── requirements.txt # Python dependencies ├── README.md # Project overview and setup instructions └── .gitignore # Files to ignore in version control
-
+- Demostrated above
+- 
 ## Getting Started
 
 ### Prerequisites
