@@ -1,4 +1,3 @@
-# tests/test_data_ingestion.py
 import unittest
 from src.data_ingestion import load_data
 
